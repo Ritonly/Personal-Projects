@@ -1,12 +1,4 @@
-/*
-Program : Daily 16
-Author:Ritonly Daniel
-Date: 11/30/23  
-Time Spent: 2hrs
-Sources of help: Lecture
-Purpose: The purpose of this program is to convert feet and inches to meters and cm or the other way around.
-Aswell as if the user choices they can convert weights instead such as kg and grams to pounds and ounces or the other way around.
-*/
+
 void convert_lengths(void);
 void convert_weights(void);
 void length_to_metric(void);
