@@ -1,12 +1,4 @@
-/*************
- Author:Ritonly Daniel
-  Date:10/15/2023
-Purpose:The purpose of the program is to score the rock ,paper,scissors game between two players.
-Each of the players enter P,R,or S and then the program announces the winner and how that person won the game.
-Also accounts for draws . Furthermore the program allows for the user to keep playing as long as they want.
-If the user enters an invalid option the program will prompt the user to enter a correct choice.
-Time Spent:  I spent 2hrs  doing this assignment.
-*************/
+
 #include <stdio.h>
 enum choice
 {
